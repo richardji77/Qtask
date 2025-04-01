@@ -1,3 +1,6 @@
+default user:admin 
+Password:kns
+
 # qtask - 任务跟踪系统
 
 #### 介绍
