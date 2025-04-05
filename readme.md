@@ -1,5 +1,7 @@
 default user:admin 
 Password:123
+DEMO:https://qtasks.streamlit.app/
+1. 安装Python 3.12 (at least 3.7+), Steamlit 1.44
 
 # qtask - 任务跟踪系统
 
@@ -23,7 +25,7 @@ Password:123
 
 #### 安装教程
 
-1. 安装Python 3.7+
+1. 安装Python 3.12 (at least 3.7+), Steamlit 1.44
 2. 安装依赖库：
 ```bash
 pip install streamlit sqlite3
